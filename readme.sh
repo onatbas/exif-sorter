@@ -1,2 +1,2 @@
 python3 -m notebook # do your edits
-jupyter nbconvert --execute --to script *.ipynb # turn into python script
+python3 -m nbconvert --execute --to script *.ipynb # turn into python script
